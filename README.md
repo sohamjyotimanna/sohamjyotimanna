@@ -36,7 +36,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sohamjyotimanna&hide_border=true&ring=39d353&fire=39d353&currStreakLabel=39d353&sideNums=39d353&currStreakNum=39d353" />
+  <img src="https://streak-stats.demolab.com?user=sohamjyotimanna&theme=github-dark-green&hide_border=true" />
 </p>
 
 ---
