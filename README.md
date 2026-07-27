@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sohamjyoti Manna</h1>
 
+
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Information Technology Student
@@ -12,7 +13,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html, css, js, java, c, python, git, github, vscode, vercel" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,c,python,git,github,vscode,vercel" />
 </p>
 
 ---
