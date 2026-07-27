@@ -29,9 +29,7 @@
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=sohamjyotimanna&theme=tokyonight&hide_border=true"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=sohamjyotimanna&theme=tokyonight" />
 
 ---
 
