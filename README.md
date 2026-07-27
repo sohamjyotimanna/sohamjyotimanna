@@ -35,9 +35,7 @@
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sohamjyotimanna&theme=github-dark-green&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=sohamjyotimanna&theme=tokyonight" />
 
 ---
 
