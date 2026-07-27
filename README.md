@@ -30,7 +30,7 @@
 ## 📅 Contribution Calendar
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/sohamjyotimanna" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/409ba5/sohamjyotimanna" alt="GitHub Contribution Chart" />
 </p>
 
 ## 🔥 GitHub Streak
