@@ -26,7 +26,12 @@
 <p align="center">
   <img src="https://github-readme-stats-smoky-seven-53.vercel.app/api?username=sohamjyotimanna&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
----
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamjyotimanna&theme=tokyo-night&hide_border=true" />
+</p>
 
 ## 🔥 GitHub Streak
 
