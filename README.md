@@ -24,7 +24,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohamjyotimanna&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-smoky-seven-53.vercel.app/api?username=sohamjyotimanna&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
