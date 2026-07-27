@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohamjyoti Manna</h1>
 
-<h3 align="center">B.Tech Information Technology Student</h3>
-
----
-
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Information Technology Student
@@ -16,7 +12,7 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,c,python,git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=html, css, js, java, c, python, git, github, vscode, vercel" />
 </p>
 
 ---
@@ -25,12 +21,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-smoky-seven-53.vercel.app/api?username=sohamjyotimanna&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-## 📅 Contribution Calendar
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/sohamjyotimanna" alt="GitHub Contribution Chart" />
 </p>
 
 ## 🔥 GitHub Streak
